@@ -40,3 +40,13 @@ for doc :  https://github.com/SWIMProjectUCB/SWIM/wiki/Analyze-historical-cluste
 After Python Ouput
 Use the SWIM WorkloadSynthesis.pl
 refer https://github.com/SWIMProjectUCB/SWIM/wiki
+
+
+
+Working on SWIM :
+Please refer the SWIM page for how to use swim 
+instead of parse-hadoop-jobhistory.pl 
+download parse-hadoop-jobhistory.py python scipt to support for MR2
+
+
+
