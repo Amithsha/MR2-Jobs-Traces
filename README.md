@@ -1,13 +1,14 @@
-Important:
+Overview
 Standard way to do performance comparison is to execute the same workload on the systems being measured, compute potentially multiple performance metrics from the observed behaviour, then assess the pros and cons of each system.
 SWIM allows realistic and representative workloads to be used to drive such performance comparisons.
 
 
 
 What is SWIM ?
-
 Statistical Workload Injector for MapReduce 
-Please refer the link for SWIM
+This SWIM supoprts for MR1 
+
+Please refer the link for SWIM and how to use 
 https://github.com/SWIMProjectUCB/SWIM/wiki
 
 
